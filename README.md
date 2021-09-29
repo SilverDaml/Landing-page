@@ -2,4 +2,4 @@
 
 ## The odin project's Hhtml/CSS challenge
 
-### [Live demo] (https://silverdaml.github.io/Landing-page/)
+[Live demo] (https://silverdaml.github.io/Landing-page/)
